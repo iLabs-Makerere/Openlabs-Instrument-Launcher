@@ -1,0 +1,12 @@
+C:\Users\ASTRO\documents\visual studio 2013\Projects\new_oscilloscope_test\new_oscilloscope_test\bin\Debug\new_oscilloscope_test.exe.config
+C:\Users\ASTRO\documents\visual studio 2013\Projects\new_oscilloscope_test\new_oscilloscope_test\obj\Debug\new_oscilloscope_test.exe
+C:\Users\ASTRO\documents\visual studio 2013\Projects\new_oscilloscope_test\new_oscilloscope_test\obj\Debug\new_oscilloscope_test.pdb
+C:\Users\ASTRO\documents\visual studio 2013\Projects\new_oscilloscope_test\new_oscilloscope_test\bin\Debug\new_oscilloscope_test.exe
+C:\Users\ASTRO\documents\visual studio 2013\Projects\new_oscilloscope_test\new_oscilloscope_test\bin\Debug\new_oscilloscope_test.pdb
+C:\Users\ASTRO\documents\visual studio 2013\Projects\new_oscilloscope_test\new_oscilloscope_test\obj\Debug\new_oscilloscope_test.csprojResolveAssemblyReference.cache
+C:\Users\ASTRO\documents\visual studio 2013\Projects\new_oscilloscope_test\new_oscilloscope_test\obj\Debug\new_oscilloscope_test.Form1.resources
+C:\Users\ASTRO\documents\visual studio 2013\Projects\new_oscilloscope_test\new_oscilloscope_test\obj\Debug\new_oscilloscope_test.Properties.Resources.resources
+C:\Users\ASTRO\documents\visual studio 2013\Projects\new_oscilloscope_test\new_oscilloscope_test\obj\Debug\new_oscilloscope_test.csproj.GenerateResource.Cache
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Oscilloscope fast Read\new_oscilloscope_test\bin\Debug\new_oscilloscope_test.exe.config
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Oscilloscope fast Read\new_oscilloscope_test\obj\Debug\new_oscilloscope_test.exe
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Oscilloscope fast Read\new_oscilloscope_test\obj\Debug\new_oscilloscope_test.pdb
