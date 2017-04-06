@@ -1,0 +1,12 @@
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\bin\Debug\oscilloscope_Serial_test.exe.config
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\obj\Debug\oscilloscope_Serial_test.exe
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\obj\Debug\oscilloscope_Serial_test.pdb
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\bin\Debug\oscilloscope_Serial_test.exe
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\bin\Debug\oscilloscope_Serial_test.pdb
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\bin\Debug\kayChart.dll
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\obj\Debug\Openlabs Instrument Launcher.csprojResolveAssemblyReference.cache
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\obj\Debug\oscilloscope_Serial_test.F_Gen.resources
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\obj\Debug\oscilloscope_Serial_test.Oscilloscope.resources
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\obj\Debug\oscilloscope_Serial_test.instrument_Launcher.resources
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\obj\Debug\oscilloscope_Serial_test.Properties.Resources.resources
+C:\Users\ASTRO\Documents\Visual Studio 2013\Projects\Openlabs Instrument launcher\oscilloscope_Serial_test\obj\Debug\Openlabs Instrument Launcher.csproj.GenerateResource.Cache
